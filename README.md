@@ -49,6 +49,10 @@ EvoFusion integrates and extends these methods into a unified, dynamic training 
 - **Function-Preserving Mutation Mechanism (FPMM)** - Ensures structural changes keep prior knowledge intact.
 - **Multi-Objective Fitness Engine (MOFE)** - Scores candidate architectures based on accuracy, parameter count, inference latency, and transferability.
 
+<div align="center">
+  <img src="https://github.com/Iro96/EvoFusion-Framework/blob/main/assets/schematic_diagram.png" alt="Schematic Diagram" width="50%" height="50%"/>
+</div>
+
 ---
 
 ## Methodology
