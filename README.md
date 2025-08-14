@@ -30,7 +30,7 @@ This makes EvoFusion particularly suited for environments where:
 
 ---
 
-# Related Work
+## Related Work
 
 - **Knowledge Distillation (KD)** — Hinton et al. introduced KD with soft targets, but architectures remained fixed.
 - **Neural Architecture Search (NAS)** — Works like ENAS and DARTS perform offline architecture search, requiring large computational budgets.
